@@ -1,0 +1,19 @@
+h1 {
+  font-size: 50px;
+  font-weight: bolder;
+  text-align: center;
+  color: red;
+}
+img {
+  width: 500px;
+}
+
+p {
+  font-family: sans-serif;
+  text-align: left;
+}
+
+p.intro {
+  font-style: italic;
+  color: red;
+}
