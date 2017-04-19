@@ -13,7 +13,22 @@ p {
   text-align: left;
 }
 
+
+p.links {
+  text-align: center;
+}
+
+
 p.intro {
   font-style: italic;
   color: red;
+}
+
+p.cakes {
+  color: orange;
+}
+
+p.best {
+  font-weight: bolder;
+  color: orange;
 }
