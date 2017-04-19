@@ -13,6 +13,10 @@ p {
   text-align: left;
 }
 
+h2.flashy {
+  color: red;
+  font-style: italic;
+}
 
 p.links {
   text-align: center;
@@ -31,4 +35,14 @@ p.cakes {
 p.best {
   font-weight: bolder;
   color: orange;
+}
+
+h3.flashy {
+  color: red;
+  font-style: italic;
+}
+
+h1.flashy {
+  color: red;
+  font-style: italic;
 }
